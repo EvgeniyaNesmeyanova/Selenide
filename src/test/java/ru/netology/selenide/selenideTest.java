@@ -1,8 +1,7 @@
 package ru.netology.selenide;
 
 import org.junit.jupiter.api.Test;
-import com.codeborne.selenid.Condition;
-import org.openqa.selenium.By;
+import com.codeborne.selenide.Condition;
 import org.openqa.selenium.Keys;
 
 import java.time.Duration;
